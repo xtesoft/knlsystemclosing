@@ -1,0 +1,1 @@
+select * into DATA_CLOSING_ALL.DATA_PERSONS from Data_Persons_tb;
