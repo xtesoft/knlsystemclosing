@@ -1,0 +1,271 @@
+"schema_name","table_name","created","last_modified","num_rows","comments"
+DATA_CLOSING_ALL,ACT_ACTIVITIES,2020-11-19 10:35:18.843,2020-11-19 10:35:18.843,10928,"Activities resume table
+Based on this script
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/ACT_ACTIVITIES_VW.sql"
+DATA_CLOSING_ALL,ADB_ADMINISTRATIVE_BUDGET,2020-11-19 10:42:05.310,2020-11-19 10:42:05.310,30827,"Administrative Budget resume table based on 
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/ADB_ADMINISTRATIVE_BUDGET_VW.sql"
+DATA_CLOSING_ALL,BUD_BUDE_INFORMATION,2020-11-19 10:55:45.323,2020-11-19 10:55:45.323,54320,"BUDe Information Table Based on
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/BUD_BUDE_INFORMATION_VW.sql"
+DATA_CLOSING_ALL,Data_Activities,2020-11-04 12:48:10.500,2020-11-04 12:48:10.500,12099,Data of Activities resume
+DATA_CLOSING_ALL,Data_Obligations,2020-11-04 13:59:16.203,2020-11-04 13:59:16.203,60272,Obligations
+DATA_CLOSING_ALL,Data_Outputs,2020-11-04 11:28:49.707,2021-10-28 10:39:21.583,21170,Output Table resume
+DATA_CLOSING_ALL,DATA_PERSONS,2020-11-19 11:14:15.240,2020-11-19 11:14:15.240,466115,"Person resume Table based on
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/Data_Persons_tb.sql"
+DATA_CLOSING_ALL,Data_Plans,2020-11-04 15:04:29.420,2020-11-04 15:04:29.420,612,Plans Resume
+DATA_CLOSING_ALL,Data_Registrations,2020-11-04 16:52:26.330,2021-01-04 14:45:59.880,345366,Registrations resume
+DATA_CLOSING_ALL,ODT_OUTPUT_DETAIL,2020-11-19 11:44:05.720,2020-11-19 11:44:05.720,54128,Output Detail Resume
+dbo,Aaa_Available_Administrative_Account_tb,2016-11-15 11:59:03.097,2016-11-15 11:59:03.097,50,KNLSystem Available Administrative Accounts
+dbo,Aao_Available_Activity_Outcome_tb,2010-03-14 21:16:21.710,2012-09-16 21:37:25.103,21205,KNLSystem Available Activity for Course/Knowledge Object
+dbo,Aar_Applicant_Assessment_Report_tb,2010-03-02 16:35:11.670,2012-09-16 21:37:30.053,241,KNLSystem Applicant Assessment Report for Languages courses
+dbo,Adc_Administrative_Account_tb,2010-01-05 13:53:24.137,2014-04-08 11:24:44.600,2671,KNLSystem Administrative Accounts
+dbo,Agi_Agenda_Item_tb,2010-01-05 13:53:24.147,2012-09-16 21:37:33.880,96,KNLSystem Course Agenda Items
+dbo,App_Activity_Person_Participant_tb,2010-01-05 13:53:24.167,2012-09-16 21:37:38.440,13255,KNLSystem Activity/Person Participant
+dbo,Apt_Assign_Private_Teacher_tb,2010-03-26 13:17:30.680,2012-09-16 21:37:40.917,845,KNLSystem Private Language Teacher assignation for registration
+dbo,Ast_Assign_Semiprivate_Teacher_tb,2010-01-05 13:53:24.240,2012-09-16 21:37:41.210,61,KNLSystem SemiPrivate Language Teacher assignation for registration
+dbo,Atc_Attachment_tb,2010-01-05 13:53:24.260,2017-04-03 21:26:32.967,8795,KNLSystem Output Attachments
+dbo,Bgi_Budget_Item_tb,2010-01-05 13:53:24.290,2012-09-16 21:37:44.803,0,No Data Found/Never Used
+dbo,Bia_Budget_Item_Administrative,2010-03-14 21:20:44.773,2012-09-16 21:37:45.880,8004,KNLSystem Budget Administrative Item
+dbo,Bie_Budget_Item_Executed,2010-03-14 21:21:46.250,2015-11-06 10:24:28.967,71310,KNLSystem Budget Item Executed
+dbo,Bio_Budget_Item_Obligated,2010-03-14 21:22:21.747,2015-11-06 10:35:51.637,60327,KNLSystem Budget Item Obligated
+dbo,Bip_Budget_Item_Plan_Activity_tb,2010-03-30 10:39:41.287,2012-09-16 21:38:17.313,11108,KNLSystem Budget Item / Plan /Activity
+dbo,Boa_Budget_Org_Unit_Account_tb,2010-01-05 13:53:24.373,2012-09-16 21:38:17.603,0,KNLSystem Budget Organizational Unit Account
+dbo,Boo_Budget_Item_Operational,2010-03-14 21:22:48.023,2012-09-16 21:38:18.330,41223,KNLSystem Budget Item Operational
+dbo,Bou_Budget_Org_Unit_tb,2010-01-05 13:53:24.410,2016-02-09 17:16:14.583,36597,KNLSystem Budget Organizational Unit
+dbo,bps_new_units,2016-12-09 14:20:40.113,2016-12-09 14:57:15.693,88,KNLSystem New Units
+dbo,Bso_Bud_E_Sync_Optima_tb,2018-01-17 12:19:04.413,2018-01-17 12:19:04.413,6333,KNLSystem BudE Syncronization Table with Optima (Process Table)
+dbo,Bud_Bud_E_tb,2011-06-30 18:30:37.303,2015-10-07 11:56:14.120,54320,KNLSystem BudE Budget Optima Table
+dbo,Bud_bude_temp_tb,2011-06-29 16:54:31.433,2011-06-29 16:54:31.437,7521,KNLSystem BudE temp amounts Table
+dbo,bun_Biztalk_Units_tb,2016-05-17 02:44:14.557,2016-05-17 02:44:14.557,887,KNLSystem Biztalk Units
+dbo,bun_Biztalk_Units_tb_jp,2017-08-30 11:39:35.723,2017-09-06 13:25:59.933,0,No Data Found / Never Used
+dbo,bus_Biztalk_Users_tb,2016-05-17 02:44:34.350,2017-05-22 19:37:07.893,5006,KNLSystem Biztalk Users
+dbo,bus_Biztalk_Users_tb_jp,2017-08-30 11:40:47.340,2017-08-30 11:40:47.340,0,No Data Found / Never Used
+dbo,Bus_Bud_E_Sync_tb,2015-11-30 12:31:39.600,2015-11-30 12:31:39.600,1203,KNLSystem BudE Org Unit amounts /  Adm Accounts
+dbo,Caj_Catalog_Jobs,2016-07-07 15:43:51.617,2016-07-07 15:44:04.903,20,KNLSystem Job's Catalog Table
+dbo,Cel_Cell_Phone_tb,2010-01-05 13:53:24.427,2012-09-16 21:38:31.347,0,No Data Found / Never Used
+dbo,Cti_City_tb,2010-01-05 13:53:24.440,2017-02-03 09:59:19.947,46294,KNLSystem City Catalog
+dbo,Ctr_Country_tb,2010-01-05 13:53:24.457,2017-02-03 09:58:43.067,240,KNLSystem Country Catalog
+dbo,Data_Activities_tb,2013-03-12 14:19:04.583,2013-03-12 14:25:57.093,51093,DW Activities Table
+dbo,Data_Obligations_tb,2013-03-12 11:52:22.627,2013-03-12 12:04:43.233,201780,DW Obligations Table
+dbo,Data_Outputs_tb,2013-04-02 12:34:51.053,2015-10-04 20:41:00.680,103464,DW Courses / Knowledge Objects Table
+dbo,Data_Persons_tb,2013-03-13 14:58:09.103,2013-03-13 14:58:09.103,466115,DW Persons Table
+dbo,Data_Plans_tb,2013-03-12 15:57:23.883,2013-03-12 15:57:23.883,3725,DW Plans Table
+dbo,Data_Registrations_2016_tb,2017-01-23 11:23:07.960,2017-01-23 11:23:07.960,63691,DW Registrations 2016 Table
+dbo,Data_Registrations_tb,2013-02-01 11:31:54.733,2017-07-19 16:58:43.583,1462409,DW Registrations Table
+dbo,Dbl_Dublin_Metadata_tb,2010-01-05 13:53:24.470,2012-09-16 21:38:34.027,8795,KNLSystem Dublic Metadata IDBDocs 
+dbo,Dep_Department_tb,2010-01-05 13:53:24.490,2014-10-01 10:49:14.980,105,KNLSystem Department Catalog
+dbo,Dep_Department_tb_jp,2017-09-05 17:26:57.853,2017-09-05 17:31:06.180,45,KNLSystem Departmanet Catalog (Java Process)
+dbo,DTT_DEPARTMENT_TEMPORARY_TB,2016-02-01 13:01:36.350,2016-02-01 13:01:36.350,0,No Data Found / Never Used
+dbo,Efa_Event_Facilitator_tb,2010-01-05 13:53:24.507,2012-09-16 21:38:38.900,0,No Data Found / Never Used
+dbo,Evt_Event_tb,2010-01-05 13:53:24.533,2017-09-05 12:46:59.823,14958,"KNLSystem Event Table (General, Language, Moodle)"
+dbo,Ext_External_Event_tb,2010-01-05 13:53:24.553,2015-01-16 16:27:03.007,10454,KNLSystem External Event Table
+dbo,Fcl_Facilitator_tb,2010-01-05 13:53:24.573,2012-09-16 21:38:44.657,8263,KNLSystem Facilitators Table
+dbo,Fll_Flow_Language_tb,2010-01-05 13:53:24.600,2012-09-16 21:38:44.873,9,KNLSystem Flow Language Catalog
+dbo,Fls_Flow_Step_tb,2010-01-05 13:53:24.627,2012-09-16 21:38:45.027,51,KNLSystem Flow Step Catalog
+dbo,Flw_Flow_tb,2010-01-05 13:53:24.650,2012-09-16 21:38:45.387,21,KNLSystem Flow Catalog
+dbo,Fsa_Flow_Step_Action_tb,2010-01-05 13:53:24.667,2012-09-16 21:38:50.210,292141,KNLSysten Flow Step Action Catalog
+dbo,Fsl_Flow_Step_Language_tb,2010-01-05 13:53:24.693,2012-09-16 21:38:50.897,0,KNLSystem Flow Step Language Catalog
+dbo,Gel_Guest_Email_Log_tb,2013-08-26 18:17:09.743,2013-08-26 18:17:09.767,602,KNLSystem Guest Email Log Table
+dbo,Gra_Group_Access_tb,2010-01-05 13:53:24.717,2012-09-16 21:38:51.377,3314,Security Table for Group Access to IFAs
+dbo,Grp_Group_tb,2010-01-05 13:53:24.747,2012-09-16 21:38:51.633,45,Security Table Groups Catalog
+dbo,Gst_Guest_tb,2010-01-05 13:53:24.763,2013-08-26 18:17:09.767,47455,KNLSystem Guest Persons Table
+dbo,Ifa_Interface_Action_tb,2010-01-05 13:53:24.783,2012-09-16 21:38:52.903,799,Security Table Interface / Action 
+dbo,Ifc_Interface_tb,2010-01-05 13:53:24.807,2018-01-02 11:15:26.430,781,Security Table Interface
+dbo,Imp_Importation_History_tb,2010-01-05 13:53:24.820,2012-09-16 21:38:53.553,4183,KNLSystem Previous System Importation Log Table
+dbo,Importation_Unit_tb,2010-01-29 20:07:50.140,2010-01-29 20:07:50.150,848,KNLSystem Previous System Importation Unit Log Table
+dbo,Importation_User_tb,2010-01-29 20:07:50.350,2010-01-29 20:07:50.373,5370,KNLSystem Previous System Importation User Log Table
+dbo,Inc_Institution_Contact_tb,2010-01-05 13:53:24.833,2012-09-16 21:38:53.750,0,No Data Found / Never Used
+dbo,Indes_Related_Courses_tb,2016-08-28 10:49:55.860,2016-08-28 10:49:58.303,36,KNLSystem Indes Related Courses
+dbo,Inp_Institution_Phone_tb,2010-01-05 13:53:24.867,2012-09-16 21:38:54.127,1314,KNLSystem Institution Phone Table
+dbo,Ins_Institution_tb,2010-04-27 10:27:57.800,2015-01-16 16:27:03.000,45864,KNLSystem Institution Table
+dbo,Ipc_Indes_Program_Competencies_tb,2016-05-02 14:15:35.027,2016-07-14 09:22:13.653,11,KNLSystem Indes Program Competencies
+dbo,Ipct_IndesProgramCompetencies_Translation_tb,2016-07-14 09:22:13.610,2016-07-14 09:22:13.653,22,KNLSystem Indes Program Competencies Translation
+dbo,Ipk_Indes_Program_Knowledge_Areas_tb,2016-05-02 14:15:35.113,2016-07-12 16:46:32.587,34,KNLSystem Indes Program Knowledge Areas
+dbo,Ipkt_KnowledgeAreas_Translation_tb,2016-07-12 16:33:31.740,2016-07-12 17:12:19.443,68,KNLSystem Indes Program Knowledge Areas Translation
+dbo,Ipr_Indes_Program_tb,2016-04-27 15:52:45.710,2016-07-12 15:47:34.800,5,KNLSystem Indes Program
+dbo,Iprt_Program_Translation_tb,2016-07-12 15:30:09.320,2016-07-12 15:30:14.720,10,KNLSystem Indes Program Translation
+dbo,Isp_Invoice_Semiprivate_tb,2010-01-05 13:53:24.937,2012-09-16 21:38:55.903,182,KNLSystem Invoice Semiprivate
+dbo,item_completion_success_factors_tb,2018-02-13 18:02:47.833,2018-02-13 18:02:47.833,1872,KNLSystem Item Completiom Success Factors
+dbo,Iva_Invoice_Assessment_tb,2010-01-05 13:53:24.960,2012-09-16 21:38:56.180,1168,KNLSystem Invoice Assessment
+dbo,Ivg_Invoice_Group_tb,2010-01-05 13:53:24.977,2012-09-16 21:38:56.477,3168,KNLSystem Invoice Group
+dbo,Ivo_Invoice_Other_tb,2010-01-05 13:53:24.997,2012-09-16 21:38:56.637,1594,KNLSystem Invoice Other
+dbo,Ivp_Invoice_Private_tb,2010-01-05 13:53:25.043,2012-09-16 21:38:56.820,2400,KNLSystem Invoice Private
+dbo,Ivt_Invoice_Teacher_tb,2010-01-05 13:53:25.063,2012-09-16 21:38:57.157,8579,KNLSystem Invoice Teacher
+dbo,Kaf_Knl_Activity_Flow_Action_tb,2011-01-04 09:23:05.213,2012-09-16 21:38:57.260,430,KNLSystem KNA / Flow Action
+dbo,Kai_Knl_Plan_Allocation_Item_tb,2010-01-05 13:53:25.083,2014-12-08 17:30:42.807,2681,KNLSystem KPA Item
+dbo,KAL_KNLSYSTEM_ACCESS_LOG,2015-09-24 14:30:09.610,2015-09-25 00:10:12.553,252186,KNLSystem Access Log Processing Table
+dbo,Kao_Knl_Plan_Activity_Other_Resource_tb,2010-01-05 13:53:25.110,2012-09-16 21:38:58.167,7528,KNLSystem KNA Other Resources
+dbo,Kat_Knl_Activity_Target_tb,2010-01-05 13:53:25.137,2012-09-16 21:38:58.927,22297,KNLSystem KNA / Target
+dbo,Kda_Knl_Division_Flow_Action_tb,2010-01-05 13:53:25.160,2012-09-16 21:38:59.487,2270,KNLSystem KND / Flow Action
+dbo,Kdf_Knl_Department_Flow_Action_tb,2010-01-05 13:53:25.187,2012-09-16 21:38:59.607,97,KNLSystem KNP / Flow Action
+dbo,Kna_Knl_Plan_Activity_tb,2010-04-08 14:27:34.113,2015-11-06 10:32:06.933,12099,KNLSystem KNA (Knowledge Activity)
+dbo,Knd_Knl_Plan_Division_tb,2010-01-05 13:53:25.267,2013-01-28 14:18:54.470,1201,KNLSystem KND (Knowledge Plan Division)
+dbo,knl_portal_tb,2013-07-16 12:59:32.803,2013-07-16 12:59:32.803,39156,KNLSystem Portal
+dbo,knlPortalServices_out_oear_tb,2017-06-26 11:48:13.670,2017-06-26 11:48:13.670,10,KNLSystem Portal Services Out
+dbo,knlPortalServices_parameters_tb,2016-07-15 14:42:39.210,2016-07-15 14:43:17.113,9,KNLSystem Portal Services Parameters
+dbo,Knp_Knl_Plan_Department_tb,2010-01-05 13:53:25.320,2013-01-22 11:58:52.667,428,KNLSystem KNP (Knowledge Plan Department)
+dbo,Kpa_Knl_Plan_Allocation_tb,2010-01-05 13:53:25.370,2013-02-05 17:22:42.310,389,KNLSystem KPA (Knowledge Plan Allocation)
+dbo,Kpb_Knl_Plan_Budget_tb,2010-01-05 13:53:25.410,2012-09-16 21:39:04.430,107616,KNLSystem Plan Budget
+dbo,Kpd_Knl_Plan_Deliverable_tb,2010-01-05 13:53:25.443,2013-01-28 14:01:30.417,8170,KNLSystem KPD (Knowledge Plan Deliverable)
+dbo,Lbr_Library_Product_tb,2013-03-19 10:26:19.663,2013-03-19 10:26:43.980,944,KNLSystem Library Product
+dbo,Lcm_Lesson_Learned_Comment_tb,2010-11-05 19:01:17.743,2012-09-16 21:39:06.227,3,KNLSystem Lesson Learned Comment
+dbo,Ldp_Language_Development_Plan_tb,2010-01-05 13:53:25.497,2012-09-16 21:39:06.937,1096,KNLSystem Language Development Plan
+dbo,Lea_Logistic_Estimation_Flow_Action_tb,2011-08-26 00:29:39.037,2011-08-26 00:29:39.050,3985,KNLSystem Logistic Estimation Flow Action
+dbo,Lec_Logistic_Estimation_Country_tb,2011-08-26 00:29:38.983,2012-09-16 21:39:07.047,6604,KNLSystem Logistic Estimation Country
+dbo,Ler_Logistic_Estimation_Review_Request_tb,2011-08-26 00:29:42.347,2012-09-16 21:39:07.217,618,KNLSystem Logistic Estimation Review Request
+dbo,Les_Logistic_Estimation_tb,2011-08-26 00:29:38.627,2013-07-11 14:39:42.967,1571,KNLSystem Logistic Estimation
+dbo,Lfs_Lessons_Learned_Flow_Step_Action_tb,2010-05-28 10:57:25.593,2012-09-16 21:39:07.453,81,KNLSystem Learned Flow Step Action
+dbo,Lgc_Language_Category_tb,2010-01-05 13:53:25.597,2012-09-16 21:39:07.723,76,KNLSystem Language Category
+dbo,Lge_Language_Group_Event_tb,2010-01-05 13:53:25.637,2012-09-16 21:39:07.890,1708,KNLSystem Language Group Event
+dbo,Lgv_Language_Group_Evaluation_tb,2010-01-05 13:53:25.663,2012-09-16 21:39:08.610,4081,KNLSystem Language Group Evaluation
+dbo,Lie_Language_Individual_Evaluation_tb,2010-01-05 13:53:25.720,2012-09-16 21:39:09.387,433,KNLSystem Language Individual Evaluation
+dbo,Llb_Lessons_Learned_Body_tb,2010-05-28 10:57:25.660,2012-09-16 21:39:09.533,110,KNLSystem Lessons Learned Body
+dbo,LLc_Lessons_Learned_Contact_tb,2010-05-28 10:57:25.693,2012-09-16 21:39:09.647,292,KNLSystem Lessons Learned Contact
+dbo,Llk_Lessons_Learned_Keywords_tb,2010-05-28 10:57:25.717,2012-09-16 21:39:09.747,501,KNLSystem Lessons Learned Keywords
+dbo,Llm_Lessons_Learned_Metadata_tb,2010-05-28 10:57:25.740,2012-09-16 21:39:10.357,109,KNLSystem Lessons Learned Metadata
+dbo,Lln_Language_Level_Need_tb,2010-01-05 13:53:25.780,2012-09-16 21:39:10.680,20,KNLSystem Language Level Need
+dbo,Llr_Lesson_Learned_Rating_tb,2010-11-05 19:01:12.240,2012-09-16 21:39:10.813,1219,KNLSystem Lessons Learned Rating
+dbo,Lls_Lessons_Learned_tb,2010-05-28 10:57:25.820,2012-09-16 21:39:11.230,109,KNLSystem Lessons Learned
+dbo,Lng_Language_tb,2010-01-05 13:53:25.807,2017-09-08 17:31:20.780,33,KNLSystem Language Catalog
+dbo,Lnl_Language_Level_tb,2010-01-05 13:53:25.830,2012-09-16 21:39:11.633,7,KNLSystem Language Level Table
+dbo,Loc_Location_tb,2010-01-05 13:53:25.843,2016-10-17 13:32:39.300,11373,KNLSystem Location Catalog
+dbo,Lof_Location_features_tb,2014-09-22 11:57:57.923,2014-11-03 11:11:39.330,33,KNLSystem Location Features
+dbo,Lsi_Language_Individual_Need_tb,2010-01-05 13:53:25.863,2012-09-16 21:39:12.567,2206,KNLSystem Language Individual Need
+dbo,Lsn_Language_Student_Need_tb,2010-01-05 13:53:25.893,2012-09-16 21:39:13.543,7660,KNLSystem Language Student Need
+dbo,Lst_Logistic_Estimation_Item_tb,2011-08-26 00:29:39.060,2012-09-16 21:39:13.817,34538,KNLSystem Logistic Estimation Item
+dbo,Lsu_Logistic_Estimation_Subitem_tb,2011-08-26 00:29:39.287,2012-09-16 21:39:13.977,17257,KNLSystem Logistic Estimation Subitem
+dbo,Mau_Metadata_Author_tb,2010-05-28 10:57:25.843,2012-09-16 21:39:14.093,113,KNLSystem Metadata Author
+dbo,Moe_Moodle_Event_tb,2011-02-13 17:01:40.163,2012-09-16 21:39:14.150,786,KNLSystem Moodle Event
+dbo,MOODLE_GRADES_TB,2018-03-09 02:07:10.150,2018-03-09 02:07:10.150,114297,KNLSystem Moodle Grades
+dbo,Mos_Moodle_Service_tb,2011-02-13 17:01:56.473,2012-09-16 21:39:14.197,518,KNLSystem Moodle Service
+dbo,mTt_monthyl_Temporary_table,2016-08-03 10:22:52.033,2016-08-03 20:48:23.120,743,KNLSystem Table Monthyl Temporary
+dbo,Oba_Output_badges_tb,2016-05-25 11:06:53.680,2016-05-25 11:06:53.723,0,KNLSystem Output Badges
+dbo,Obc_Outcome_Budget_Category_tb,2010-01-05 13:53:25.930,2012-09-16 21:40:12.277,1566691,KNLSystem Outcome Budget Category
+dbo,Obf_Outcome_Budget_Flow_Action_tb,2011-08-26 00:29:42.283,2012-09-16 21:40:12.680,0,No Data Found / Never Used
+dbo,Obg_Outcome_Budget_tb,2010-01-05 13:53:25.963,2012-09-16 21:40:26.640,203250,KNLSystem Outcome Budget
+dbo,Obi_Outcome_Budget_Item_tb,2010-01-05 13:53:25.997,2012-09-16 21:40:27.820,0,No Data Found / Never Used
+dbo,Obr_Outcome_Budget_Subcategory_Region_tb,2012-03-14 18:23:34.107,2012-09-16 21:40:27.943,0,No Data Found / Never Used
+dbo,Obs_Outcome_Budget_Subcategory_tb,2012-03-14 18:23:33.957,2012-09-16 21:40:30.507,115696,KNLSystem Outcome Budget Sub-Category
+dbo,Occ_Outcome_Cost_Category_tb,2012-03-14 18:23:33.403,2012-09-16 21:40:33.367,40206,KNLSystem Outcome Cost Category
+dbo,Oco_Outcome_Cost_tb,2012-03-14 18:23:33.137,2012-09-16 21:40:35.963,11373,KNLSystem Outcome Cost
+dbo,Ofa_Outcome_Flow_Action_tb,2010-01-05 13:53:26.030,2012-09-16 21:40:36.410,2,KNLSystem Outcome Flow Action
+dbo,Ogc_Outcome_Budget_Group_Category_tb,2011-08-26 00:29:40.387,2012-09-16 21:40:37.973,8570,KNLSystem Outcome Budget Group Category
+dbo,Oip_Output_Indes_Program_tb,2016-04-27 15:52:45.790,2016-04-27 15:52:45.820,204,KNLSystem Output Indes Program
+dbo,Oko_Outcome_KNLOfficer_tb,2010-03-14 21:23:09.643,2013-02-27 19:18:51.330,53716,KNLSystem Outcome Officer
+dbo,Okw_Output_Knowledge_Areas_tb,2016-05-25 17:03:16.413,2016-05-25 17:03:16.443,1075,KNLSystem Output Knowledge Areas
+dbo,Olsf_outputsfupdate_tb,2015-08-12 13:25:14.237,2015-08-12 13:25:14.237,1421,KNLSystem Output Success Factory Update
+dbo,Olt_Outcome_Logistic_tb,2010-01-05 13:53:26.060,2012-09-16 21:40:39.927,0,No Data Found / Never Used
+dbo,Olu_outputlogupdate_tb,2015-08-12 13:25:48.167,2015-08-12 13:25:48.167,6895,KNLSystem Output Log Update
+dbo,Omd_Output_Metadata_tb,2016-05-25 11:05:47.490,2016-07-29 14:40:46.373,285,KNLSystem Output Metadata
+dbo,Omd_Output_Metadata_tb_old,2013-11-06 12:25:48.163,2016-05-25 11:05:32.953,96,KNLSystem Output Metadata Old
+dbo,Omdt_OutputMetadata_Translation_tb,2016-07-14 10:18:05.897,2017-07-26 12:58:10.683,471,KNLSystem Output Metadata Translation
+dbo,Oml_Output_Module_tb,2016-05-25 11:06:23.730,2016-08-30 15:29:18.027,913,KNLSystem Output Module
+dbo,Omlt_OutputModule_Tranlation_tb,2016-07-13 11:20:29.340,2016-07-13 11:20:34.027,1589,KNLSystem Output Module Translation
+dbo,Opl_Opus_Language_tb,2010-01-05 13:53:26.087,2012-09-16 21:40:40.317,40811,KNLSystem Opus Language
+dbo,Ops_Opus_tb,2010-01-05 13:53:26.113,2017-06-26 13:02:56.790,20457,KNLSystem Opus
+dbo,Opt_Opus_Importation_tb,2010-01-05 13:53:26.127,2016-01-22 11:24:20.340,6495,KNLSystem Opus Importation
+dbo,Orl_Output_Relation_tb,2016-05-25 15:56:11.470,2016-05-25 15:56:11.500,78,KNLSystem Output Relation
+dbo,Ota_Outcome_Target_Audience_tb,2010-01-05 13:53:26.140,2012-09-16 21:40:42.363,41466,KNLSystem Outcome Target Audience
+dbo,Otd_Output_Target_Departments_tb,2014-10-01 10:49:11.350,2014-10-01 10:49:14.980,372540,KNLSystem Output Target Departments
+dbo,Otg_Outcome_Budget_Group_tb,2011-08-26 00:29:40.350,2012-09-16 21:40:44.787,3889,KNLSystem Outcome Budget Group
+dbo,Oto_Output_Topic_tb,2014-10-01 10:49:25.360,2014-10-01 10:49:29.977,16690,KNLSystem Output Topic
+dbo,Oul_Outcome_Language_tb,2010-01-05 13:53:26.163,2012-09-16 21:40:46.110,15023,KNLSystem Outcome Language
+dbo,Out_Outcome_tb,2010-01-05 13:53:26.190,2016-08-28 10:49:58.307,27796,KNLSystem Outcome
+dbo,Pcl_Program_Course_Language_tb,2014-02-04 18:38:07.793,2014-02-04 18:38:07.840,514,KNLSystem Program Course Language
+dbo,Pco_Program_Course_tb,2014-02-04 18:38:07.750,2016-02-04 16:32:30.417,398,KNLSystem Program Course
+dbo,Pcp_Program_Course_Precondition_tb,2014-02-04 18:38:07.853,2014-02-04 18:38:07.870,37,KNLSystem Program Course Precondition
+dbo,Per_Person_tb,2010-01-05 13:53:26.243,2017-09-05 17:27:05.653,67105,KNLSystem Person
+dbo,Per_Person_tb_jp,2017-09-08 17:23:35.950,2017-09-08 17:30:49.963,5017,Temporary table - Java process to import person data from SAP to KNLSystem
+dbo,Pft_Proficiency_Test_tb,2010-06-23 10:31:42.357,2012-09-16 21:41:00.560,101,KNLSystem Proficiency Test
+dbo,Phn_Phone_Number_tb,2010-04-27 15:39:11.410,2012-09-16 21:41:02.457,6076,KNLSystem Phone Number
+dbo,Pom_Programs_Outcome_Metadata_tb,2013-11-06 12:26:38.877,2013-11-06 12:26:38.877,200,KNLSystem Programs Outcome Metadata
+dbo,Ppn_Person_Phone_Number_tb,2010-01-05 13:53:26.277,2012-09-16 21:41:03.260,4743,KNLSystem Person Phone Number
+dbo,Pra_Person_Access_tb,2010-01-05 13:53:26.300,2012-09-16 21:41:03.650,554,Security Table Person Access
+dbo,Prd_Product_tb,2010-01-05 13:53:26.333,2012-09-16 21:41:03.917,436,KNLSystem Product
+dbo,Pre_Person_Restriction_tb,2010-01-05 13:53:26.350,2012-09-16 21:41:04.267,0,No Data Found / Never Used
+dbo,Prg_Person_Group_tb,2010-01-05 13:53:26.380,2012-09-16 21:41:05.780,17367,Security Table Person Group
+dbo,Prm_Program_Module_tb,2014-02-04 18:38:07.617,2014-02-04 18:38:07.657,0,No Data Found / Never Used
+dbo,Pro_Program_tb,2014-02-04 18:38:07.450,2014-02-04 18:38:07.603,5,KNLSystem Program
+dbo,Prr_Program_Role_tb,2014-02-04 18:38:07.570,2014-02-04 18:38:07.697,52,KNLSystem Program Role
+dbo,Ptp_Program_Training_Plan_tb,2014-02-04 18:38:07.670,2014-02-04 18:38:07.777,106,KNLSystem Program Training Plan
+dbo,Ptu_Program_Training_Plan_User_tb,2014-02-04 18:38:07.710,2014-02-04 18:38:07.733,12948,KNLSystem Program Training Plan User
+dbo,Rec_Registration_Costs_tb,2011-08-26 00:29:39.307,2013-11-10 04:30:30.393,272978,KNLSystem Registration Costs
+dbo,Reg_Registration_tb,2010-01-05 13:53:26.407,2015-09-03 10:47:38.830,353496,KNLSystem Registration
+dbo,Rej_Records_Jobs,2016-07-07 15:44:04.707,2016-07-07 15:44:04.900,20185,KNLSystem Records Jobs
+dbo,Reu_Registration_User_tb,2010-07-01 13:12:46.660,2012-09-16 21:41:27.130,293129,KNLSystem Registration User
+dbo,Rev_Program_Reviews_tb,2016-05-09 14:28:02.157,2016-05-17 12:32:31.237,0,KNLSystem Program Reviews
+dbo,Rfa_Registration_Flow_Action_tb,2010-01-05 13:53:26.460,2012-09-16 21:41:34.603,284463,KNLSystem Registration Flow Action
+dbo,Rft_Registration_Facilitator_tb,2013-02-27 19:18:28.767,2017-02-08 16:05:38.650,8863,KNLSystem Registration Facilitator
+dbo,Rgn_Region_tb,2012-03-14 18:23:31.273,2012-09-16 21:41:37.907,5,KNLSystem Region
+dbo,Rgt_Registration_Guest_tb,2010-01-05 13:53:26.483,2012-09-16 21:41:41.427,58439,KNLSystem Registration Guest
+dbo,RosterVPS,2016-12-06 15:59:09.017,2016-12-06 15:59:09.017,2543,KNLSystem Table Temporary Roster VPS
+dbo,Rot_Related_Outcomes_tb,2013-11-06 12:26:18.927,2013-11-06 12:26:21.730,26,KNLSystem Related Outcomes
+dbo,Rrl_Region_Relationship_tb,2012-03-14 18:23:31.817,2012-09-16 21:41:45.010,25,KNLSystem Region Relationship
+dbo,Rsl_Service_Individual_Language_tb,2010-01-05 13:53:26.503,2012-09-16 21:41:50.087,1922,KNLSystem Service Individual Language
+dbo,Rsv_Reservation_tb,2014-09-22 11:57:57.710,2014-09-22 11:57:57.913,9349,KNLSystem Reservation
+dbo,Sac_Source_Of_Funding_Account_tb,2011-08-26 00:29:40.197,2012-09-16 21:41:54.123,9942,KNLSystem Source Of Funding Account
+dbo,sample_omd,2016-08-01 17:58:45.920,2016-08-01 17:58:45.920,0,No Data Found / Never Used
+dbo,Sat_Source_Of_Funding_Activity_tb,2011-08-26 00:29:40.167,2012-09-16 21:41:58.073,10641,KNLSystem Source Of Funding Activity
+dbo,Sct_Self_Learning_Certificate_tb,2010-01-05 13:53:26.523,2012-09-16 21:42:00.563,218,KNLSystem Self Learning Certificate
+dbo,Sec_Section_tb,2010-07-06 10:48:30.167,2017-09-05 17:27:02.690,13,KNLSystem Section
+dbo,Ses_Sessions_tb,2016-04-05 10:23:00.977,2016-04-05 10:23:00.977,46622,KNLSystem Sessions
+dbo,Sis_Sign_In_Sheet_tb,2015-09-03 10:47:38.817,2015-09-03 10:47:38.840,24495,KNLSystem Sing In Sheet
+dbo,Slc_Self_Learning_Course_tb,2010-01-05 13:53:26.550,2012-09-16 21:42:05.373,50,KNLSystem Self Learning Course
+dbo,Sls_Self_Learning_Session_tb,2010-01-05 13:53:26.573,2012-09-16 21:42:10.493,4161,KNLSystem Self Learning Session
+dbo,Sof_Source_Of_Funding_tb,2011-08-26 00:29:39.113,2012-09-16 21:42:15.970,20600,KNLSystem Source Of Funding
+dbo,Spf_Survey_Participants_Faults_tb,2011-03-18 10:00:52.757,2012-09-16 21:42:18.377,9210,KNLSystem Survey Participants Faults
+dbo,Spp_Semiprivate_Person_tb,2010-01-05 13:53:26.603,2012-09-16 21:42:21.397,51,KNLSystem Semiprivate Person
+dbo,Srv_Service_tb,2010-01-05 13:53:26.637,2012-09-16 21:42:24.190,1004,KNLSystem Service
+dbo,sts_2013_knlsystem_tb,2014-04-11 15:48:40.933,2014-04-11 15:53:59.770,1048321,KNLSystem Statistcis 2013
+dbo,sts_knlsystem_statistics_2013,2014-04-11 10:53:41.940,2014-04-11 12:22:14.880,1048315,KNLSystem Statistcis 2013
+dbo,Sts_Scheduled_Tasks_Status_tb,2015-08-06 10:04:19.270,2015-08-06 10:05:40.343,0,No Data Found / Never Used
+dbo,SUCCESS_FACTORS_COMPLETION_TB,2018-03-09 16:43:15.713,2018-03-09 16:43:15.713,43165,KNLSystem Success Factors Completion
+dbo,SUCCESS_FACTORS_HISTORY_TB,2017-06-14 10:11:00.183,2017-06-14 10:11:00.183,191327,KNLSystem Success Factors History
+dbo,SUCCESS_FACTORS_USER_DATA_TB,2018-03-08 22:27:12.000,2018-03-08 22:27:12.000,34268,KNLSystem Success Factors User Data
+dbo,sysdiagrams,2010-04-05 11:32:27.777,2010-04-05 11:32:27.787,1,Microsoft SQL Server Diagrams
+dbo,Tag_Taxonomy_Group_tb,2010-01-05 13:53:26.657,2012-09-16 21:42:28.943,111,KNLSystem Taxonomy Group
+dbo,Tal_Taxonomy_Language_tb,2010-01-05 13:53:26.680,2012-09-16 21:42:32.697,1078,KNLSystem Taxonomy Language
+dbo,Tax_Taxonomy_tb,2010-01-05 13:53:26.707,2012-09-16 21:42:37.147,1079,KNLSystem Taxonomy
+dbo,Tca_Ticket_Attachment_tb,2010-01-05 13:53:26.723,2012-09-16 21:42:40.843,4780,KNLSystem Ticket Attachment
+dbo,Tcg_Ticket_Class_Group_tb,2010-01-05 13:53:26.750,2012-09-16 21:42:41.167,48,KNLSystem Ticket Class Group
+dbo,Tck_Ticket_tb,2010-01-05 13:53:26.770,2015-10-14 11:37:40.210,19417,KNLSystem Ticket
+dbo,Tct_Teacher_Courses_Taxonomy_tb,2010-01-05 13:53:26.823,2012-09-16 21:42:43.847,10223,KNLSystem Teacher Courses Taxonomy
+dbo,Tde_Tor_Deliverable_tb,2011-03-02 14:14:46.927,2012-09-16 21:42:43.910,248,KNLSystem Terms Of Reference Deliverable
+dbo,Tea_Teacher_tb,2010-03-18 15:20:19.180,2012-09-16 21:42:44.063,181,KNLSystem Teacher
+dbo,Tec_Technical_Cooperation_tb,2010-01-05 13:53:26.870,2012-09-16 21:42:44.133,0,No Data Found / Never Used
+dbo,Temp_Bud,2011-06-30 18:07:45.570,2012-09-16 21:42:44.183,38,KNLSystem Temporary Bud
+dbo,TEMP_GUEST_FROM_MOODLE_WITH_USER_ID,2013-10-03 15:07:04.253,2013-10-03 15:07:04.253,197,KNLSystem Temporal Guest From Moodle With User Id
+dbo,TEMP_KNL_MOODLE_USERS_TB,2013-09-12 11:28:46.280,2013-09-12 11:28:46.280,1994,KNLSystem Temporal KNL Moodle Users
+dbo,TEMP_MOODLE_USERS_TB,2013-08-26 18:17:23.907,2013-08-26 18:17:23.907,6332,KNLSystem Temporal Moodle Users
+dbo,Tgp_Ticket_Group_Person_tb,2010-04-23 19:33:36.793,2012-09-16 21:42:44.400,47,KNLSystem Ticket Group Person
+dbo,Tha_Registration_Hash_Approval_tb,2013-10-07 18:42:36.790,2013-10-07 18:42:37.390,17424,KNLSystem Registration Hash Approval
+dbo,Tig_Ticket_Group_tb,2010-01-05 13:53:26.907,2013-07-11 14:39:39.863,10,KNLSystem Ticket Group
+dbo,Tjf_Title_Job_Family_Matriz,2012-01-06 11:02:51.927,2012-01-06 11:02:51.930,201,KNLSystem Title Job Family Matriz
+dbo,Toa_Terms_of_Reference_Attachment_tb,2011-03-02 14:14:55.127,2017-04-03 21:25:56.750,862,KNLSystem Terms Of Reference Attachment
+dbo,Toc_Terms_of_Reference_Subcategory_tb,2011-03-02 14:15:01.327,2012-09-16 21:42:44.663,512,KNLSystem Terms Of Reference Subcategory
+dbo,Tol_Terms_of_Reference_Language_tb,2011-03-02 14:15:08.950,2012-09-16 21:42:44.767,3062,KNLSystem Terms Of Reference Language
+dbo,Tom_Topics_Outcome_Metadata_tb,2013-11-06 12:26:35.713,2013-11-06 12:26:36.783,819,KNLSystem Topics Outcome Metadata
+dbo,Tor_Terms_of_Reference_tb,2011-03-02 14:15:15.817,2017-05-10 01:33:03.850,1791,KNLSystem Terms Of Reference
+dbo,Trc_Tor_Category_tb,2011-03-02 14:15:26.733,2012-09-16 21:42:44.893,12,KNLSystem Terms Of Reference Category
+dbo,Trs_Terms_of_Reference_Responsible_tb,2011-03-02 14:15:32.923,2012-09-16 21:42:44.970,3326,KNLSystem Terms Of Reference Responsible
+dbo,Trt_Travel_Authorization_Temporary_tb,2010-05-10 16:40:02.273,2015-02-04 14:18:39.473,1198,KNLSystem Travel Authorization Temporary
+dbo,Trv_Travel_Authorization_tb,2010-05-10 16:40:02.290,2015-06-05 17:49:44.747,2716,KNLSystem Travel Authorization
+dbo,Tsc_Tor_Subcategory_tb,2011-03-02 14:15:38.770,2012-09-16 21:42:46.357,80,KNLSystem Terms Of Reference Subcategory
+dbo,Tth_Ticket_Thread_tb,2010-01-05 13:53:26.920,2012-09-16 21:42:47.180,39349,KNLSystem Ticket Thread
+dbo,Txg_Taxonomy_Genealogy_tb,2010-06-23 10:30:34.843,2012-09-16 21:42:47.393,117,KNLSystem Taxonomy Genealogy
+dbo,Uac_Unplanned_Activity_tb,2010-01-05 13:53:26.943,2012-09-16 21:42:47.687,0,No Data Found / Never Used
+dbo,Uao_Unplanned_Activity_Other_Resource_tb,2010-01-05 13:53:27.003,2012-09-16 21:42:47.830,0,KNLSystem Unplanned Activity Other Resource
+dbo,Uap_Unit_Assigned_Person_tb,2010-01-05 13:53:27.040,2014-12-19 12:25:02.877,9961,KNLSystem Unit Assigned Person
+dbo,Udi_Unplanned_Deliverable_Budget_Item_tb,2010-01-05 13:53:27.110,2012-09-16 21:42:48.850,0,No Data Found / Never Used
+dbo,Ufa_Unplanned_Flow_Action_tb,2010-01-05 13:53:27.137,2012-09-16 21:42:49.037,0,No Data Found / Never Used
+dbo,Unt_Unit_tb,2010-01-05 13:53:27.163,2016-05-17 02:43:08.240,2151,KNLSystem Unit
+dbo,Unt_Unit_tb_jp,2017-09-05 17:30:59.730,2017-09-08 17:30:47.080,887,KNLSystem Temporary table - Java process to import unit data from SAP to KNLSystem
+dbo,Upd_Unplanned_Deliverable_tb,2010-01-05 13:53:27.193,2012-09-16 21:42:50.057,0,No Data Found / Never Used
+dbo,user_temp,2014-03-21 09:26:20.683,2014-03-21 09:26:20.683,447,KNLSystem User Temporary
+dbo,users_success_factors_tb,2018-02-13 15:34:55.060,2018-02-13 15:34:55.060,22228,KNLSystem Users Success Factors
+dbo,Usr_User_tb,2010-01-05 13:53:27.240,2017-09-05 13:15:08.680,73687,KNLSystem User
+dbo,Usr_User_tb_jp,2017-09-08 17:30:43.100,2017-09-08 17:31:20.780,5017,KNLSystem Temporary table - Java process to import user data from SAP to KNLSystem
+dbo,Ust_User_Temporary_tb,2010-01-05 13:53:27.277,2015-10-04 16:03:30.800,4765,KNLSystem User Temporary
+dbo,Uta_Unplanned_Target_Audience_tb,2010-01-05 13:53:27.290,2012-09-16 21:42:55.067,0,No Data Found / Never Used
+dbo,UTT_UNIT_TEMPORARY_TB,2016-02-01 13:02:21.757,2016-02-01 13:02:21.757,1514,KNLSystem Unit Temporary
+dbo,Wlc_Worklocation_Country_tb,2012-03-14 18:23:38.123,2012-09-16 21:42:55.483,42,KNLSystem Worklocation Country
+dbo,Yea_Year_tb,2010-01-05 13:53:27.320,2012-09-16 21:42:55.597,16,KNLSystem Year

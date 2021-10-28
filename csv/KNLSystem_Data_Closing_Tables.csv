@@ -1,0 +1,16 @@
+"schema_name","table_name","created","last_modified","num_rows","comments"
+DATA_CLOSING_ALL,ACT_ACTIVITIES,2020-11-19 10:35:18.843,2020-11-19 10:35:18.843,10928,"Activities resume table
+Based on this script
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/ACT_ACTIVITIES_VW.sql"
+DATA_CLOSING_ALL,ADB_ADMINISTRATIVE_BUDGET,2020-11-19 10:42:05.310,2020-11-19 10:42:05.310,30827,"Administrative Budget resume table based on 
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/ADB_ADMINISTRATIVE_BUDGET_VW.sql"
+DATA_CLOSING_ALL,BUD_BUDE_INFORMATION,2020-11-19 10:55:45.323,2020-11-19 10:55:45.323,54320,"BUDe Information Table Based on
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/BUD_BUDE_INFORMATION_VW.sql"
+DATA_CLOSING_ALL,Data_Activities,2020-11-04 12:48:10.500,2020-11-04 12:48:10.500,12099,Data of Activities resume
+DATA_CLOSING_ALL,Data_Obligations,2020-11-04 13:59:16.203,2020-11-04 13:59:16.203,60272,Obligations
+DATA_CLOSING_ALL,Data_Outputs,2020-11-04 11:28:49.707,2021-10-28 10:39:21.583,21170,Output Table resume
+DATA_CLOSING_ALL,DATA_PERSONS,2020-11-19 11:14:15.240,2020-11-19 11:14:15.240,466115,"Person resume Table based on
+https://raw.githubusercontent.com/xtesoft/knlsystemclosing/master/sql/Data_Persons_tb.sql"
+DATA_CLOSING_ALL,Data_Plans,2020-11-04 15:04:29.420,2020-11-04 15:04:29.420,612,Plans Resume
+DATA_CLOSING_ALL,Data_Registrations,2020-11-04 16:52:26.330,2021-01-04 14:45:59.880,345366,Registrations resume
+DATA_CLOSING_ALL,ODT_OUTPUT_DETAIL,2020-11-19 11:44:05.720,2020-11-19 11:44:05.720,54128,Output Detail Resume
